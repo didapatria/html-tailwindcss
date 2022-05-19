@@ -1,2 +1,11 @@
 # php-tailwindcss
-PHP + Tailwindcss
+
+## PHP + Tailwindcss
+
+### Installation
+
+Clone the repo
+
+```sh
+git clone https://github.com/didapatria/php-tailwindcss.git
+```
